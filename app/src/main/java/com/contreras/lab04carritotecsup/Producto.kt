@@ -1,4 +1,4 @@
-package com.example.lab04carritotecsup
+package com.contreras.lab04carritotecsup
 
 data class Producto(
     val nombre: String,
